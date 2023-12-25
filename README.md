@@ -11,10 +11,10 @@ Advent of Code is an annual coding event where participants solve a series of pr
 
 This repository is organized by day, with each day's challenge having its own folder or file. Here's what you can expect in each:
 
-    Day 1/: Input data and solution for Day 1 challenge
-    Day 2/: Input data and solution for Day 2 challenge
+    day 1/: Input data and solution for Day 1 challenge
+    day 2/: Input data and solution for Day 2 challenge
     ...
-    Day 25/: Input data and solution for Day 25 challenge
+    day 25/: Input data and solution for Day 25 challenge
 
 
 
